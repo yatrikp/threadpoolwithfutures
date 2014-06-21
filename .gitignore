@@ -1,0 +1,14 @@
+*~
+*.bak
+*.iml
+*.ipr
+*.iws
+
+/*.ant-*
+/*.ipr
+/*.iws
+/*.patch
+/*.sublime-*
+/.checkstyle
+/.idea
+/.settings
